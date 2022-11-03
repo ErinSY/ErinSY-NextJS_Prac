@@ -1,11 +1,14 @@
 import Layout from 'components/Layout';
 import SubLayout from 'components/SubLayout';
+import { useRouter } from 'next/router';
 
 export default function Cart() {
+  const router = useRouter();
+  const { slug } = router.query;
   return (
     <>
       <main>
-        <h1 className='Cart'>Cart</h1>
+        <h1 className='Cart'>Cart{JSON.stringify(slug)}</h1>
       </main>
     </>
   );
