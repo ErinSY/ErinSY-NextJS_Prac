@@ -14,3 +14,7 @@
 ✨ **<span style="color:green">FE에서는 BE에서 제공해주는 API를 통해 DB의 내용을 활용할 수 있다.** ✨
 
 [API 설명상세](https://velog.io/@seoyul0203/Next.js%EB%9D%BC%EC%9A%B0%ED%8C%85-2-API)
+
+## ✅ Link Component
+
+[Link 설명상세](https://velog.io/@seoyul0203/Next.js-%EB%9D%BC%EC%9A%B0%ED%8C%853-Client-Side-Navigate-Link-Component)
